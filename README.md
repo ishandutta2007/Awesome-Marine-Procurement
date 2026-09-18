@@ -4,7 +4,7 @@
 
 # 🚢 Awesome Marine Procurement
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Marine-Procurement/pulls) [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Marine-Procurement?style=flat-square)](https://github.com/ishandutta2007/Awesome-Marine-Procurement/stargazers) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Marine-Procurement/pulls) [![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Marine-Procurement?style=flat-square)](https://github.com/ishandutta2007/Awesome-Marine-Procurement/stargazers) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **The Definitive Ecosystem Guide to Maritime E-Procurement, Ship Chandlery Purchasing, Requisition-to-PO Workflows & Fleet Purchasing Systems**
 
@@ -52,9 +52,9 @@ Below is a structured analysis of leading commercial maritime e-procurement solu
 
 While full-scale maritime trading networks are largely commercial, open-source solutions provide essential building blocks for fleet inventory tracking, ship chandlery management, and customized procurement workflows.
 
-Below are top open-source projects relevant to maritime procurement, sorted by **GitHub Star Count (Descending)**:
+Below are top open-source projects relevant to maritime procurement, sorted by **GitHub Stars_Count (Descending)**:
 
-| Repository / Project | GitHub Star Badge & Link | Primary Tech Stack | Description & Maritime Procurement Relevance |
+| Repository / Project | GitHub Stars_Badge & Link | Primary Tech Stack | Description & Maritime Procurement Relevance |
 | :--- | :--- | :--- | :--- |
 | **[Odoo ERP Purchase](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript | Highly extensible open-source enterprise suite featuring Purchase and Stock modules customizable for marine fleet requisitions and supplier management. |
 | **[ERPNext Procurement](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social)](https://github.com/frappe/erpnext/stargazers) | Python (Frappe framework) | Complete open ERP with purchase order approval workflows, multi-currency vendor portals, and stock inventory tracking suitable for ship managers. |
